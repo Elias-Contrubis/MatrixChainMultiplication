@@ -1,0 +1,4 @@
+Given an array of integers representing the size of a matrices, 
+example: 40x20, 20x30, 30x10, 10x30 would be input as <40,20,30,10,30>
+
+this program prints out the optimal way to parenthesize the matricies, this is also called the matrix-chain multiplicationi problem.
